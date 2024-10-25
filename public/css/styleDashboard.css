@@ -1,0 +1,13 @@
+#buscar{
+    transition: border-color 0.3s;
+    
+    border-width: 2px;
+}
+
+#buscar:focus{
+    border-color: rgb(6, 180, 248);
+}
+
+
+
+

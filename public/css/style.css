@@ -1,0 +1,31 @@
+.box-form{
+    width: 200px;
+    height: 370px;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    padding-right: 50px;
+    padding-left: 50px;
+    
+
+}
+
+.Subtitulo{
+    padding-bottom: 8px;
+}
+
+body{
+    background-color: #f2f8ff;
+}
+
+#spanPassword{
+    display: none;
+}
+#spanPassword-repeatpass{
+    display: none;
+}
+/* .input-password{
+    border-color: rgb(212, 212, 212);
+} */
+
+
+
